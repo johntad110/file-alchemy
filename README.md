@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 This command will install the necessary Python packages required for the File Sorting Script to run properly.
 
-4. Edit the configuration file (`config.json`) to define the desired sorting rules. You can specify the target folder, file extensions, and corresponding subfolders in the configuration file. Open the `config.json` file in a text editor and modify the values according to your requirements.
+4. Edit the configuration file (`config.yaml`) to define the desired sorting rules. You can specify the target folder, file extensions, and corresponding subfolders in the configuration file. Open the `config.yaml` file in a text editor and modify the values according to your requirements.
 
 5. Run the script by executing the following command:
 
