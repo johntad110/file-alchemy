@@ -1,0 +1,6 @@
+*.log
+.env
+.venv
+env/
+venv/
+venv.bak/

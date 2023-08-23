@@ -1,0 +1,41 @@
+# Configuration for FileAlchemy
+
+# Path to downloads folder
+downloads_folder: C:\Users\user\Downloads
+
+file_types:
+  - folder: C:/Users/user/Documents
+    extensions:
+      - .txt
+      - .doc
+      - .docx
+      - .pdf
+  - folder: C:/Users/user/Pictures
+    extensions:
+      - .jpg
+      - .png
+      - .gif
+  - folder: C:/Users/user/Videos
+    extensions:
+      - .mp4
+      - .mov
+  - folder: C:/Users/user/Music
+    extensions:
+      - .mp3
+      - .wav
+  - folder: C:/Users/user/Zipped
+    extensions:
+      - .zip
+      - .rar
+      - .7z
+  - folder: C:/Users/user/Software
+    extensions:
+      - .exe
+      - .iso
+      - .msi
+
+others:
+  - C:/Users/user/Others
+
+blacklist:
+  - "C:/Users/user/Downloads/Telegram Desktop"
