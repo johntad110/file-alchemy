@@ -1,8 +1,8 @@
-# File Sorting Script
+# File Alchemy
 
 ## Overview
 
-The File Sorting Script is a simple Python utility designed to help you organize your files effortlessly. By providing a target folder, the script automatically sorts the files within it based on their file extensions into separate subfolders. This saves you time and ensures that your files are neatly organized for easy access and better file management.
+The File Sorting Script is a simple Python utility designed to help you organize your files effortlessly. By providing it a target folder, the script automatically sorts the files within it based on their file extensions into separate subfolders. This saves you time and ensures that your files are neatly organized for easy access and better file management.
 
 ## Features
 
